@@ -96,21 +96,21 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
 <details>
   <summary>Week 1 - Visualizing data</summary>
   
-  > - C6W1_Making your own visualization - example dataset (Hands-On Activity Making your own visualization)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W1_Making%20your%20own%20visualization%20-%20example%20dataset%20(Hands-On%20Activity%20Making%20your%20own%20visualization).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W1_Making your own visualization - example dataset (Hands-On Activity Making your own visualization)
 </details>
 <details>
   <summary>Week 2 - Creating data visualizations with Tableau</summary>
   
-  > - C6W2_CO2 Dataset (Hands-On Activity Working with Tableau)
-  > - C6W2_CO2 (Hands-On Activity Practice linking data in Tableau)
-  > - C6W2_Energy data (Hands-On Activity Practice linking data in Tableau)
-  > - C6W2_totalpopulation (Hands-On Activity Practice linking data in Tableau)
-  > - C6W2_gdptotal (Hands-On Activity Practice linking data in Tableau)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W2_CO2%20Dataset%20(Hands-On%20Activity%20Working%20with%20Tableau).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W2_CO2 Dataset (Hands-On Activity Working with Tableau)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W2_CO2%20(Hands-On%20Activity%20Practice%20linking%20data%20in%20Tableau).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W2_CO2 (Hands-On Activity Practice linking data in Tableau)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W2_Energy%20data%20(Hands-On%20Activity%20Practice%20linking%20data%20in%20Tableau).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W2_Energy data (Hands-On Activity Practice linking data in Tableau)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W2_totalpopulation%20(Hands-On%20Activity%20Practice%20linking%20data%20in%20Tableau).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W2_totalpopulation (Hands-On Activity Practice linking data in Tableau)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W2_gdptotal%20(Hands-On%20Activity%20Practice%20linking%20data%20in%20Tableau).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W2_gdptotal (Hands-On Activity Practice linking data in Tableau)
 </details>
 <details>
   <summary>Week 3 - Crafting data stories</summary>
   
-  > - C6W3_Cosmetics Inc. (Hands-On Activity Creating, filtering, and customizing charts)
+  > - <a href="../../raw/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6W3_Cosmetics%20Inc.%20(Hands-On%20Activity%20Creating%2C%20filtering%2C%20and%20customizing%20charts).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C6W3_Cosmetics Inc. (Hands-On Activity Creating, filtering, and customizing charts)
 </details>
 
 ---
