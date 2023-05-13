@@ -2,6 +2,8 @@
 This is a repository for the Google Data Analytics Professional Certificates Coursera dataset  
 [Coursera - Google Data Analytics Professional Certificates](https://www.coursera.org/professional-certificates/google-data-analytics "Coursera - Google Data Analytics Professional Certificates")  
 
+---
+
 ### Course 3 - Prepare Data for Exploration
 <details>
   <summary>Week 3 - Databases: Where data lives</summary>
@@ -18,6 +20,8 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
   > - C3W5_Junior Data Scientist Job Description (Course challenge)
   > - C3W5_Scenario 2_Second Interview Email (Course challenge)
 </details>
+
+---
 
 ### Course 4 - Process Data from Dirty to Clean
 <details>
@@ -47,6 +51,8 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
   > - C4W6_Spoke Market Research Job Description (Course challenge)
   > - C4W6_Email from Recruiter (Course challenge)
 </details>
+
+---
 
 ### Course 5 - Analyze Data to Answer Questions
 <details>
@@ -84,6 +90,8 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
   > - C5W4_Dynamic Dataset (Course challenge)
 </details>
 
+---
+
 ### Course 6 - Share Data Through the Art of Visualization
 <details>
   <summary>Week 1 - Visualizing data</summary>
@@ -104,6 +112,8 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
   
   > - C6W3_Cosmetics Inc. (Hands-On Activity Creating, filtering, and customizing charts)
 </details>
+
+---
 
 ### Course 7 - Data Analysis with R Programming
 <details>
