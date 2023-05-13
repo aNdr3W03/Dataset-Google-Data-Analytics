@@ -27,29 +27,29 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
 <details>
   <summary>Week 1 - The importance of integrity</summary>
   
-  > - C4W1_June 2014 Invoices (Weekly challenge 1)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W1_June%202014%20Invoices%20(Weekly%20challenge%201).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C4W1_June 2014 Invoices (Weekly challenge 1)
 </details>
 <details>
   <summary>Week 2 - Sparkling-clean data</summary>
   
-  > - C4W2_Data Spreadsheet for Cleaning with Spreadsheets (Hands-On Activity Cleaning data with spreadsheets)
-  > - C4W2_San Francisco Boba Tea Shop Location Info (Hands-On Activity Clean data with spreadsheet functions)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W2_Data%20Spreadsheet%20for%20Cleaning%20with%20Spreadsheets%20(Hands-On%20Activity%20Cleaning%20data%20with%20spreadsheets).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C4W2_Data Spreadsheet for Cleaning with Spreadsheets (Hands-On Activity Cleaning data with spreadsheets)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W2_San%20Francisco%20Boba%20Tea%20Shop%20Location%20Info%20(Hands-On%20Activity%20Clean%20data%20with%20spreadsheet%20functions).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C4W2_San Francisco Boba Tea Shop Location Info (Hands-On Activity Clean data with spreadsheet functions)
 </details>
 <details>
   <summary>Week 3 - Cleaning data with SQL</summary>
   
-  > - C4W3_Customer Table Sheet 1 (Optional Upload the customer dataset to BigQuery)
-  > - C4W3_Lauren's Furniture Store Transaction Table (Optional Upload the store transactions dataset to BigQuery)
-  > - C4W3_automobile data (Hands-On Activity Clean data using SQL)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W3_Customer%20Table%20Sheet%201%20(Optional%20Upload%20the%20customer%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C4W3_Customer Table Sheet 1 (Optional Upload the customer dataset to BigQuery)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W3_Lauren's%20Furniture%20Store%20Transaction%20Table%20(Optional%20Upload%20the%20store%20transactions%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C4W3_Lauren's Furniture Store Transaction Table (Optional Upload the store transactions dataset to BigQuery)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W3_automobile%20data%20(Hands-On%20Activity%20Clean%20data%20using%20SQL).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C4W3_automobile data (Hands-On Activity Clean data using SQL)
 </details>
 <details>
   <summary>Week 6 - Course challenge</summary>
   
-  > - C4W6_Meer Kitty Interior Design About Us Page (Course challenge)
-  > - C4W6_Meer Kitty Interior Design Business Plan (Course challenge)
-  > - C4W6_Meer Kitty Survey Feedback (Course challenge)
-  > - C4W6_Spoke Market Research Job Description (Course challenge)
-  > - C4W6_Email from Recruiter (Course challenge)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W6_Meer%20Kitty%20Interior%20Design%20About%20Us%20Page%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C4W6_Meer Kitty Interior Design About Us Page (Course challenge)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W6_Meer%20Kitty%20Interior%20Design%20Business%20Plan%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C4W6_Meer Kitty Interior Design Business Plan (Course challenge)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W6_Meer%20Kitty%20Survey%20Feedback%20(Course%20challenge).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C4W6_Meer Kitty Survey Feedback (Course challenge)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W6_Spoke%20Market%20Research%20Job%20Description%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C4W6_Spoke Market Research Job Description (Course challenge)
+  > - <a href="../../raw/main/C4%20-%20Process%20Data%20from%20Dirty%20to%20Clean/C4W6_Email%20from%20Recruiter%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C4W6_Email from Recruiter (Course challenge)
 </details>
 
 ---
