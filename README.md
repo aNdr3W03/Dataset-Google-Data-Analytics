@@ -58,36 +58,36 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
 <details>
   <summary>Week 1 - Organizing data to begin analysis</summary>
   
-  > - C5W1_Movie Data (Optional Upload the movie dataset to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W1_Movie%20Data%20(Optional%20Upload%20the%20movie%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W1_Movie Data (Optional Upload the movie dataset to BigQuery)
 </details>
 <details>
   <summary>Week 2 - Formatting and adjusting data</summary>
   
-  > - C5W2_Dataset for Project_CONCAT function (Hands-On Activity Combine multiple pieces of data)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W2_Dataset%20for%20Project_CONCAT%20function%20(Hands-On%20Activity%20Combine%20multiple%20pieces%20of%20data).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C5W2_Dataset for Project_CONCAT function (Hands-On Activity Combine multiple pieces of data)
 </details>
 <details>
   <summary>Week 3 - Aggregating data for analysis</summary>
   
-  > - C5W3_VLOOKUP Practice Sheet (Hands-On Activity Using VLOOKUP)
-  > - C5W3_Employees Table - Understanding JOINS (Optional Upload the employee dataset to BigQuery)
-  > - C5W3_Departments Table - Understanding JOINS (Optional Upload the employee dataset to BigQuery)
-  > - C5W3_Warehouse Orders - Warehouse (Optional Upload the warehouse dataset to BigQuery)
-  > - C5W3_Warehouse Orders - Orders (Optional Upload the warehouse dataset to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W3_VLOOKUP%20Practice%20Sheet%20(Hands-On%20Activity%20Using%20VLOOKUP).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C5W3_VLOOKUP Practice Sheet (Hands-On Activity Using VLOOKUP)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W3_Employees%20Table%20-%20Understanding%20JOINS%20(Optional%20Upload%20the%20employee%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W3_Employees Table - Understanding JOINS (Optional Upload the employee dataset to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W3_Departments%20Table%20-%20Understanding%20JOINS%20(Optional%20Upload%20the%20employee%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W3_Departments Table - Understanding JOINS (Optional Upload the employee dataset to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W3_Warehouse%20Orders%20-%20Warehouse%20(Optional%20Upload%20the%20warehouse%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W3_Warehouse Orders - Warehouse (Optional Upload the warehouse dataset to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W3_Warehouse%20Orders%20-%20Orders%20(Optional%20Upload%20the%20warehouse%20dataset%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W3_Warehouse Orders - Orders (Optional Upload the warehouse dataset to BigQuery)
 </details>
 <details>
   <summary>Week 4 - Performing data calculations</summary>
   
-  > - C5W4_Working with Conditions (Hands-On Activity Working with conditions)
-  > - C5W4_Cosmetics Inc. - Sheet1 (Test your knowledge on data calculations)
-  > - C5W4_Movie Data Starter Project (Hands-On Activity Explore movie data with pivot tables)
-  > - C5W4_Inventory (Hands-On Activity From spreadsheets to BigQuery)
-  > - C5W4_Sales (Hands-On Activity From spreadsheets to BigQuery)
-  > - C5W4_Products (Hands-On Activity From spreadsheets to BigQuery)
-  > - C5W4_Sample Transaction Table - transactional data format (Weekly challenge 4)
-  > - C5W4_Retail Sales Data - transactional data format (Weekly challenge 4)
-  > - C5W4_Movie Data Starter Project (Weekly challenge 4)
-  > - C5W4_Email From Tayen Bell Directly Dynamic (Course challenge)
-  > - C5W4_Dynamic Dataset (Course challenge)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Working%20with%20Conditions%20(Hands-On%20Activity%20Working%20with%20conditions).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C5W4_Working with Conditions (Hands-On Activity Working with conditions)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Cosmetics%20Inc.%20-%20Sheet1%20(Test%20your%20knowledge%20on%20data%20calculations).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W4_Cosmetics Inc. - Sheet1 (Test your knowledge on data calculations)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Movie%20Data%20Starter%20Project%20(Hands-On%20Activity%20Explore%20movie%20data%20with%20pivot%20tables).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C5W4_Movie Data Starter Project (Hands-On Activity Explore movie data with pivot tables)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Inventory%20(Hands-On%20Activity%20From%20spreadsheets%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W4_Inventory (Hands-On Activity From spreadsheets to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Sales%20(Hands-On%20Activity%20From%20spreadsheets%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W4_Sales (Hands-On Activity From spreadsheets to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Products%20(Hands-On%20Activity%20From%20spreadsheets%20to%20BigQuery).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W4_Products (Hands-On Activity From spreadsheets to BigQuery)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Sample%20Transaction%20Table%20-%20transactional%20data%20format%20(Weekly%20challenge%204).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W4_Sample Transaction Table - transactional data format (Weekly challenge 4)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Retail%20Sales%20Data%20-%20transactional%20data%20format%20(Weekly%20challenge%204).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C5W4_Retail Sales Data - transactional data format (Weekly challenge 4)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Movie%20Data%20Starter%20Project%20(Weekly%20challenge%204).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C5W4_Movie Data Starter Project (Weekly challenge 4)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Email%20From%20Tayen%20Bell%20Directly%20Dynamic%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C5W4_Email From Tayen Bell Directly Dynamic (Course challenge)
+  > - <a href="../../raw/main/C5%20-%20Analyze%20Data%20to%20Answer%20Questions/C5W4_Dynamic%20Dataset%20(Course%20challenge).xlsx"><img src="https://img.shields.io/badge/XLSX-217346" title="XLSX"></a> C5W4_Dynamic Dataset (Course challenge)
 </details>
 
 ---
