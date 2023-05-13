@@ -8,17 +8,17 @@ This is a repository for the Google Data Analytics Professional Certificates Cou
 <details>
   <summary>Week 3 - Databases: Where data lives</summary>
   
-  > - C3W3_names (Hands-On Activity Create a custom table in BigQuery)
-  > - C3W3_student performance data (Hands-On Activity Clean data in spreadsheets with sorting and filtering)
+  > - <a href="../../raw/main/C3%20-%20Prepare%20Data%20for%20Exploration/C3W3_names%20(Hands-On%20Activity%20Create%20a%20custom%20table%20in%20BigQuery).zip"><img src="https://img.shields.io/badge/ZIP-1476FE" title="ZIP"></a> C3W3_names (Hands-On Activity Create a custom table in BigQuery)
+  > - <a href="../../raw/main/C3 - Prepare Data for Exploration/C3W3_student performance data (Hands-On Activity Clean data in spreadsheets with sorting and filtering).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C3W3_student performance data (Hands-On Activity Clean data in spreadsheets with sorting and filtering)
 </details>
 <details>
   <summary>Week 5 - Course challenge</summary>
   
-  > - C3W5_Scenario 1_Client Email (Course challenge)
-  > - C3W5_Customer survey data (Course challenge)
-  > - C3W5_Delivery times distance (Course challenge)
-  > - C3W5_Junior Data Scientist Job Description (Course challenge)
-  > - C3W5_Scenario 2_Second Interview Email (Course challenge)
+  > - <a href="../../raw/main/C3%20-%20Prepare%20Data%20for%20Exploration/C3W5_Scenario%201_Client%20Email%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C3W5_Scenario 1_Client Email (Course challenge)
+  > - <a href="../../raw/main/C3%20-%20Prepare%20Data%20for%20Exploration/C3W5_Customer%20survey%20data%20(Course%20challenge).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C3W5_Customer survey data (Course challenge)
+  > - <a href="../../raw/main/C3%20-%20Prepare%20Data%20for%20Exploration/C3W5_Delivery%20times%20distance%20(Course%20challenge).csv"><img src="https://img.shields.io/badge/CSV-217346" title="CSV"></a> C3W5_Delivery times distance (Course challenge)
+  > - <a href="../../raw/main/C3%20-%20Prepare%20Data%20for%20Exploration/C3W5_Junior%20Data%20Scientist%20Job%20Description%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C3W5_Junior Data Scientist Job Description (Course challenge)
+  > - <a href="../../raw/main/C3%20-%20Prepare%20Data%20for%20Exploration/C3W5_Scenario%202_Second%20Interview%20Email%20(Course%20challenge).pdf"><img src="https://img.shields.io/badge/PDF-FF0000" title="PDF"></a> C3W5_Scenario 2_Second Interview Email (Course challenge)
 </details>
 
 ---
