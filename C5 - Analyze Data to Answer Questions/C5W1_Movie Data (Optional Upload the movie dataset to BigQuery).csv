@@ -1,4 +1,4 @@
-Movie Title,Release Date,Wikipedia URL,Genre,Director (1),Director (2),Cast (1),Cast (2),Cast (3),Cast (4),Cast (5),Budget ,Revenue
+Movie Title,Release Date,Wikipedia URL,Genre,Director_1,Director_2,Cast_1,Cast_2,Cast_3,Cast_4,Cast_5,Budget,Revenue
 10 Cloverfield Lane,2016-03-08,https://en.wikipedia.org/wiki/10_Cloverfield_Lane,Thriller,Dan Trachtenberg,,Mary Elizabeth Winstead,John Goodman,John Gallagher,,,"$15,000,000.00","$108,300,000.00"
 13 Hours: The Secret Soldiers of Benghazi,2016-01-15,https://en.wikipedia.org/wiki/13_Hours:_The_Secret_Soldiers_of_Benghazi,Action,Michael Bay,,James Badge Dale,John Krasinski,Toby Stephens,Pablo Schreiber,Max Martini,"$45,000,000.00","$69,400,000.00"
 2 Guns,2013-08-02,https://en.wikipedia.org/wiki/2_Guns,Action,Baltasar Kormákur,,Mark Wahlberg,Denzel Washington,Paula Patton,Bill Paxton,Edward James Olmos,"$61,000,000.00","$131,900,000.00"
